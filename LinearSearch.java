@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class LinearSearch
 {
     /*
-     * This method Linear Search to find a number in a unordered array of integers
+     * This method uses Linear Search to find a number in a unordered array of integers
      * @return A boolean 'true' if the number was found and 'false' if it was not found.
      * Also, the code counts the number of time that the code had to ran to find it
      */ 
